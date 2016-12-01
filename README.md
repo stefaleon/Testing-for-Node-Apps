@@ -3,4 +3,5 @@
 ## Testing for Node Apps
 
 * Mocha
+* expect
 
