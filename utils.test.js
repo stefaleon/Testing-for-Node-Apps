@@ -2,7 +2,7 @@ const expect = require('expect');
 const utils = require('./utils');
 
 
-it('should should set first and last name', () => {
+it('should set first and last name', () => {
 	var user = { location: 'Bikini Bottom' };
 	var res = utils.setName(user, 'Spongebob Squarepants');
 	// res equals user
